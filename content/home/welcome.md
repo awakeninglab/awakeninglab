@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Awakening Co-op Lab
+widget_id: About Us
 headless: true
 weight: 110
 title: Awakening Co-op Lab
