@@ -9,6 +9,11 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    color: "#9eebd8"
+    gradient_start: "#fcfdfd"
+    gradient_end: "#a4e9bf"
+    image: 工作坊.png
 ---
 
 <br>
