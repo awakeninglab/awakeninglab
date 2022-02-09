@@ -15,7 +15,6 @@ design:
     gradient_end: "#a4e9bf"
     image: 工作坊.png
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**Awakening Cooperative Lab** (or Awakening Co-op Lab, Awakening Lab) is a grassroots think-and-do-tank founded in Taiwan, which takes a critical and systems-conscious approach to research, education, and social design, with the aim to sow seeds for convivial, regenerative, and healthy societies.
