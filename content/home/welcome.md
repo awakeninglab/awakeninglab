@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: E.G. RECENT-POSTS
+widget_id: Awakening Co-op Lab
 headless: true
 weight: 110
 title: Awakening Co-op Lab
@@ -13,7 +13,7 @@ design:
     color: "#9eebd8"
     gradient_start: "#fcfdfd"
     gradient_end: "#a4e9bf"
-    image: 工作坊.png
+    image: ""
 ---
 <br>
 
