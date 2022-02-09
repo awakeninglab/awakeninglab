@@ -2,7 +2,7 @@
 widget: hero
 widget_id: E.G. RECENT-POSTS
 headless: true
-weight: 10
+weight: 110
 title: Awakening Co-op Lab
 hero_media: welcome.jpg
 design:
