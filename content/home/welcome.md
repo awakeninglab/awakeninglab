@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: about-me
+widget_id: about me
 headless: true
 weight: 110
 title: About Us
