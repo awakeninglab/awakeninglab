@@ -1,12 +1,12 @@
 ---
-widget: hero
-widget_id: xxxxxx
+widget: doc
+widget_id: recent post
 headless: true
 weight: 110
 title: About Us
-hero_media: welcome.jpg
+active: false
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
   background:
@@ -14,6 +14,7 @@ design:
     gradient_start: "#fcfdfd"
     gradient_end: "#a4e9bf"
     image: ""
+hero_media: welcome.jpg
 ---
 <br>
 
